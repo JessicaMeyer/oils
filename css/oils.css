@@ -1,0 +1,60 @@
+/*font-family: 'Dancing Script', cursive;
+font-family: 'Open Sans', sans-serif;*/
+/* logo picture overlay color 405853 */
+
+
+
+#logo {
+	margin-top: 30px;
+}
+
+.nav-links {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.nav-links a {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  color: black;
+}
+
+.navword {
+  margin-right: 5px;
+  margin-left: 5px;
+}
+
+/* hero section */
+/*
+.hero { 
+  height: 700px;
+  width: 100%;
+  background-repeat: no-repeat;;
+  background-size: cover;
+  background-position: center;
+  -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+}*/
+
+.hero_text {
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  /*margin-top: 200px;*/
+}
+
+.hero_subtext {
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+  font-weight: 400;
+  color: #FFFFFF;
+  font-size: 25px;
+}
+
+#herobutton {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  background-color: #FFFFFF;
+  border: 2px solid #A0CBC8;
+  color: #1D2A3D;
+}
