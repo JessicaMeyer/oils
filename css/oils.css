@@ -1,5 +1,4 @@
-/*font-family: 'Dancing Script', cursive;
-font-family: 'Open Sans', sans-serif;*/
+/* font family: 'Roboto', sans-serif, font weight 400, 700*/
 /* logo picture overlay color 405853 */
 
 
@@ -10,12 +9,13 @@ font-family: 'Open Sans', sans-serif;*/
 
 .nav-links {
   margin-top: 20px;
+  margin-bottom: 20px;
   text-align: center;
 }
 
 .nav-links a {
   font-family: 'Roboto', sans-serif;
-  font-weight: 300;
+  font-weight: 400;
   color: black;
 }
 
@@ -25,36 +25,48 @@ font-family: 'Open Sans', sans-serif;*/
 }
 
 /* hero section */
-/*
-.hero { 
-  height: 700px;
+
+.hero-image {
+  height: 600px;
   width: 100%;
+  background-image:url("https://raw.githubusercontent.com/JessicaMeyer/img/master/oilyhero.png");
   background-repeat: no-repeat;;
   background-size: cover;
   background-position: center;
   -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
-}*/
-
-.hero_text {
-  text-align: center;
-  font-family: 'Open Sans', sans-serif;
-  /*margin-top: 200px;*/
 }
 
-.hero_subtext {
-  font-family: 'Open Sans', sans-serif;
-  text-align: center;
-  font-weight: 400;
+.hero-wording {
+  padding-top: 50px;
+}
+
+.hero-title {
   color: #FFFFFF;
-  font-size: 25px;
+  font-size: 70px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
 }
 
-#herobutton {
-  font-family: 'Open Sans', sans-serif;
+.hero-text {
+  color: #FFFFFF;
+  font-size: 45px;
+  font-family: 'Roboto', sans-serif;
   font-weight: 400;
-  background-color: #FFFFFF;
-  border: 2px solid #A0CBC8;
-  color: #1D2A3D;
+  font-style: italic;
 }
+
+#hero-button {
+  background-color: #FFFFFF;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  text-align: center;
+  color: #5c1c58;
+}
+
+
+
+
+
+
