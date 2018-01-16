@@ -1,7 +1,7 @@
 /* font family: 'Roboto', sans-serif, font weight 400, 700*/
 /* logo picture overlay color 405853 */
 
-
+/* logo and nav */
 
 #logo {
 	margin-top: 30px;
@@ -27,7 +27,7 @@
 /* hero section */
 
 .hero-image {
-  height: 600px;
+  height: 550px;
   width: 100%;
   background-image:url("https://raw.githubusercontent.com/JessicaMeyer/img/master/oilyhero.png");
   background-repeat: no-repeat;;
@@ -55,18 +55,86 @@
   font-family: 'Roboto', sans-serif;
   font-weight: 400;
   font-style: italic;
+  margin-top: -10px;
 }
 
 #hero-button {
-  background-color: #FFFFFF;
+  background-color: #38363e;
   font-family: 'Roboto', sans-serif;
   font-weight: 400;
   text-align: center;
-  color: #5c1c58;
+  color: #ffffff;
+  border: 4px solid #2b2820;
+  font-size: 15px;
 }
 
+/* What are EO section */
 
+#EO-container {
+  margin-bottom: 50px;
+}
 
+.EO-title {
+  color: #b7645a;
+  font-size: 35px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+  margin-top: 50px; 
+  text-align: center; 
+}
 
+.EO-text {
+  color: #2b2820;
+  font-size: 20px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  text-align: left;
+  margin-top: 50px; 
+}
 
+#EO-button {
+  background-color: #38363e;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  text-align: center;
+  color: #ffffff;
+  border: 4px solid #2b2820;
+  font-size: 15px;
+}
 
+/* whats in the kit section */
+
+#Kit-container {
+  background-color: #ffcaca;
+}
+
+.Kit-title {
+  color: #b7645a;
+  font-size: 35px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+  margin-top: 50px; 
+  text-align: center; 
+}
+
+.kit-text {
+  color: #38363e;
+  font-size: 20px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  text-align: center;
+}
+
+.kit-images {
+  border-radius: 50%;
+}
+
+.kit-oil-title {
+  color: #b7645a;
+  font-size: 20px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700; 
+  text-align: center;
+}
+
+/* this title is for the oil bottles*/
