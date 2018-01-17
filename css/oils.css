@@ -108,7 +108,7 @@
   background-color: #ffcaca;
 }
 
-.Kit-title {
+.PSK-title {
   color: #b7645a;
   font-size: 35px;
   font-family: 'Roboto', sans-serif;
@@ -117,7 +117,7 @@
   text-align: center; 
 }
 
-.kit-text {
+.PSKkit-text {
   color: #38363e;
   font-size: 20px;
   font-family: 'Roboto', sans-serif;
@@ -126,15 +126,32 @@
 }
 
 .kit-images {
-  border-radius: 50%;
+  border-radius: 40%;
+  margin-left: 25px;
+  padding-top: 20px;
 }
 
 .kit-oil-title {
   color: #b7645a;
-  font-size: 20px;
+  font-size: 25px;
   font-family: 'Roboto', sans-serif;
   font-weight: 700; 
   text-align: center;
+  border: 1px solid #b7645a;
+  margin-right: 25px;
+}
+
+.kit-oil-text {
+  color: #38363e;
+  font-size: 20px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400; 
+  text-align: center;
+  margin-right: 25px;
+}
+
+#oil-stack {
+  padding-top: 30px;
 }
 
 /* this title is for the oil bottles*/
