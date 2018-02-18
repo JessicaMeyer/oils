@@ -20,8 +20,9 @@
 }
 
 .navword {
-  margin-right: 5px;
-  margin-left: 5px;
+/*  margin-right: 5px;
+  margin-left: 5px;*/
+  padding: 15px;
 }
 
 /* hero section */
@@ -79,7 +80,7 @@
   font-size: 35px;
   font-family: 'Roboto', sans-serif;
   font-weight: 700;
-  margin-top: 50px; 
+  margin-top: 60px; 
   text-align: center; 
 }
 
@@ -110,7 +111,7 @@
 
 .PSK-title {
   color: #b7645a;
-  font-size: 35px;
+  font-size: 25px;
   font-family: 'Roboto', sans-serif;
   font-weight: 700;
   margin-top: 50px; 
@@ -129,21 +130,23 @@
   border-radius: 40%;
   margin-left: 25px;
   padding-top: 20px;
+  vertical-align: center;
 }
 
 .kit-oil-title {
   color: #b7645a;
-  font-size: 25px;
+  font-size: 20px;
   font-family: 'Roboto', sans-serif;
   font-weight: 700; 
   text-align: center;
   border: 1px solid #b7645a;
   margin-right: 25px;
+  margin-top: 25px;
 }
 
 .kit-oil-text {
   color: #38363e;
-  font-size: 20px;
+  font-size: 18px;
   font-family: 'Roboto', sans-serif;
   font-weight: 400; 
   text-align: center;
