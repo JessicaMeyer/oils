@@ -1,4 +1,4 @@
-/* font family: 'Roboto', sans-serif, font weight 400, 700*/
+/*font-family: 'Open Sans', sans-serif;*/
 /* logo picture overlay color 405853 */
 
 /* logo and nav */
@@ -14,7 +14,7 @@
 }
 
 .nav-links a {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-weight: 400;
   color: black;
 }
@@ -45,23 +45,24 @@
 
 .hero-title {
   color: #FFFFFF;
-  font-size: 70px;
-  font-family: 'Roboto', sans-serif;
+  font-size: 60px;
+  font-family: 'Open Sans', sans-serif;
   font-weight: 700;
+  width: 65%;
 }
 
-.hero-text {
+/*.hero-text {
   color: #FFFFFF;
   font-size: 45px;
   font-family: 'Roboto', sans-serif;
   font-weight: 400;
   font-style: italic;
   margin-top: -10px;
-}
+}*/
 
 #hero-button {
   background-color: #38363e;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-weight: 400;
   text-align: center;
   color: #ffffff;
@@ -78,7 +79,7 @@
 .EO-title {
   color: #b7645a;
   font-size: 35px;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-weight: 700;
   margin-top: 60px; 
   text-align: center; 
@@ -87,7 +88,7 @@
 .EO-text {
   color: #2b2820;
   font-size: 20px;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-weight: 400;
   text-align: left;
   margin-top: 50px; 
@@ -95,7 +96,7 @@
 
 #EO-button {
   background-color: #38363e;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-weight: 400;
   text-align: center;
   color: #ffffff;
@@ -112,7 +113,7 @@
 .PSK-title {
   color: #b7645a;
   font-size: 25px;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-weight: 700;
   margin-top: 50px; 
   text-align: center; 
@@ -121,7 +122,7 @@
 .PSKkit-text {
   color: #38363e;
   font-size: 20px;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-weight: 400;
   text-align: center;
 }
@@ -136,7 +137,7 @@
 .kit-oil-title {
   color: #b7645a;
   font-size: 20px;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-weight: 700; 
   text-align: center;
   border: 1px solid #b7645a;
@@ -147,7 +148,7 @@
 .kit-oil-text {
   color: #38363e;
   font-size: 18px;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-weight: 400; 
   text-align: center;
   margin-right: 25px;
