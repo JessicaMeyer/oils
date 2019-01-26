@@ -16,7 +16,7 @@
 .nav-links a {
   font-family: 'Open Sans', sans-serif;
   font-weight: 400;
-  color: black;
+  color: #2d1336;
 }
 
 .navword {
@@ -28,7 +28,7 @@
 .hero-image {
   height: 900px;
   width: 100%;
-  background-image:url("https://raw.githubusercontent.com/JessicaMeyer/img/master/pskhero2.jpg");
+  background-image:url("https://raw.githubusercontent.com/JessicaMeyer/img/master/pskhero.jpg");
   background-repeat: no-repeat;;
   background-size: cover;
   background-position: center;
@@ -42,21 +42,21 @@
 }
 
 .hero-title {
-  color: #38363e;
+  color: #713187;
   font-size: 60px;
   font-family: 'Open Sans', sans-serif;
   font-weight: 700;
-  width: 75%;
+  width: 70%;
 }
 
 
 #hero-button {
-  background-color: #38363e;
+  background-color: #5ea545;
   font-family: 'Open Sans', sans-serif;
   font-weight: 400;
   text-align: center;
   color: #ffffff;
-  border: 4px solid #2b2820;
+  border: 4px solid #5ea545;
   font-size: 15px;
 }
 
