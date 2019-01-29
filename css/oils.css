@@ -1,5 +1,6 @@
 /*font-family: 'Open Sans', sans-serif;*/
-/* logo picture overlay color 405853 */
+/*Green gradation from #77c043 #5aa345 #36702c*/
+/*Purple from #803795 #4f235c*/
 
 /* logo and nav */
 
@@ -45,7 +46,7 @@
   color: #713187;
   font-size: 60px;
   font-family: 'Open Sans', sans-serif;
-  font-weight: 700;
+  font-weight: 400;
   width: 70%;
 }
 
@@ -60,7 +61,7 @@
   font-size: 15px;
 }
 
-/* What are EO section */
+/* home page What are EO section */
 
 #EO-container {
   margin-bottom: 50px;
@@ -94,63 +95,30 @@
   font-size: 15px;
 }
 
-/* whats in the kit section */
+/* about oils page */
 
-#Kit-container {
-  background-color: #ffcaca;
+.mainabout-EO-Containers {
+  
 }
 
-.PSK-title {
-  color: #b7645a;
+.about-EO-page-title {
+  color: #803795;
   font-size: 25px;
   font-family: 'Open Sans', sans-serif;
-  font-weight: 700;
-  margin-top: 50px; 
-  text-align: center; 
-}
-
-.PSKkit-text {
-  color: #38363e;
-  font-size: 20px;
-  font-family: 'Open Sans', sans-serif;
-  font-weight: 400;
-  text-align: center;
-}
-
-.kit-images {
-  border-radius: 60%;
-  margin-left: 25px;
-  padding-top: 20px;
-  vertical-align: center;
-}
-
-.kit-oil-title {
-  color: #b7645a;
-  font-size: 20px;
-  font-family: 'Open Sans', sans-serif;
   font-weight: 700; 
-  text-align: center;
-  border: 1px solid #b7645a;
-  margin-right: 25px;
-  margin-top: 25px;
+  text-align: center; 
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
-.kit-oil-text {
-  color: #38363e;
-  font-size: 18px;
-  font-family: 'Open Sans', sans-serif;
-  font-weight: 400; 
-  text-align: center;
-  margin-right: 25px;
+.about-EO-page-text {
+  font-weight: 400px;
+  padding-bottom: 20px;
+  margin-left: 50px;
+  margin-right: 50px;
 }
 
-#oil-stack {
-  padding-top: 30px;
-}
-
-/* this title is for the oil bottles*/
-
-.pskpic {
-  vertical-align: center;
-  width: 100%;
+.seedtosealword {
+  color: #803795;
+  text-decoration: underline;;
 }
