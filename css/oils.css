@@ -97,8 +97,8 @@
 
 /* about oils page */
 
-.mainabout-EO-Containers {
-  
+#mainphotogrid-container {
+  margin-top: 30px;
 }
 
 .about-EO-page-title {
@@ -107,7 +107,7 @@
   font-family: 'Open Sans', sans-serif;
   font-weight: 700; 
   text-align: center; 
-  margin-top: 20px;
+  margin-top: 40px;
   margin-bottom: 20px;
 }
 
