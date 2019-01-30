@@ -68,12 +68,12 @@
 }
 
 .EO-title {
-  color: #b7645a;
+  color: #803795;
   font-size: 35px;
   font-family: 'Open Sans', sans-serif;
-  font-weight: 700;
-  margin-top: 60px; 
-  text-align: center; 
+  font-weight: 700; 
+  text-align: center;
+  margin-top: 60px;  
 }
 
 .EO-text {
@@ -86,13 +86,13 @@
 }
 
 #EO-button {
-  background-color: #38363e;
+  background-color: #5ea545;
   font-family: 'Open Sans', sans-serif;
   font-weight: 400;
   text-align: center;
   color: #ffffff;
-  border: 4px solid #2b2820;
-  font-size: 15px;
+  border: 4px solid #5ea545;
+  font-size: 18px;
 }
 
 /* about oils page */
@@ -122,3 +122,9 @@
   color: #803795;
   text-decoration: underline;;
 }
+
+/*thieves page */
+
+
+
+/* savvy page */
