@@ -78,34 +78,10 @@
       </div>
     </div>
 
-  <div class="indexbottompics">
+  
 
-   <div class="grid-x grid-padding-x">
-    <div class="large-4 cell">
-      <img src="images/pskpic1.jpg" class="pskpic" />
-    </div>
-    <div class="large-4 cell">
-      <img src="images/pskpic1.jpg" class="pskpic" />
-    </div>
-    <div class="large-4 cell">
-      <img src="images/pskpic1.jpg" class="pskpic" />
-    </div>
-  </div>
-
-</div>
-
-
-<!--footer-->
-<!-- <div class="grid-x grid-padding-x">
-  <div class="large-12 cell">
- <div class="footer">
-   
-  </div>
-</div>
-</div> -->
-
-<!-- Place <div> tag where you want the feed to appear -->
-<div id="curator-feed"><a href="https://curator.io" target="_blank" class="crt-logo crt-tag">Powered by Curator.io</a>
+<!-- instagram feed -->
+<div id="curator-feed"><a href="https://curator.io" target="_blank" class="crt-logo crt-tag"></a></div>
 </div>
       
     <script src="js/vendor/jquery.js"></script>
@@ -113,16 +89,44 @@
     <script src="js/vendor/foundation.js"></script>
     <script src="js/app.js"></script>
 
-<!-- The Javascript can be moved to the end of the html page before the </body> tag -->
 
-<script type="text/javascript">
-/* curator-feed */
-(function(){
-var i, e, d = document, s = "script";i = d.createElement("script");i.async = 1;
-i.src = "https://cdn.curator.io/published/5aa8c035-803d-491f-9371-f0f1479cf603.js";
-e = d.getElementsByTagName(s)[0];e.parentNode.insertBefore(i, e);
-})();
-</script>
+<!-- footer -->
+
+<!-- <div class="grid container" id="footer">
+       <div class="grid-x grid-padding-x">
+        <div class="large-12 cell">
+          <img src ="images/ig.png"></img>
+          <img src ="images/email.png"></img>
+          <p class="copyright"> Copyright 2019</p>
+        </div>
+      </div>
+    </div> -->
+
+  
+<div class="footer-section">
+  <p class="footer-title"> Say Hello </p>
+  <div class="row">
+    <div class="large-12 columns">
+      <div class="footer-icons">
+        <a href="mailto:JessicaVEssentials@gmail.com"><img src="images/email.png" /></a>
+        <a href="http://instagram.com/fieldandgrace"><img src="images/ig.png" /></a>
+       </div>
+       <hr>
+      <p class="copyright"> ⓒ Field & Grace 2019 </p>
+  </div>
+ </div>
+</div>
+
+<!-- curator js-->
+
+    <script type="text/javascript">
+    /* curator-feed */
+    (function(){
+    var i, e, d = document, s = "script";i = d.createElement("script");i.async = 1;
+    i.src = "https://cdn.curator.io/published/5aa8c035-803d-491f-9371-f0f1479cf603.js";
+    e = d.getElementsByTagName(s)[0];e.parentNode.insertBefore(i, e);
+    })();
+    </script>
 
   </body>
 </html>
