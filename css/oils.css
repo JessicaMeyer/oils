@@ -103,6 +103,25 @@
   margin-top: 25px;
 }
 
+/* interested in section */
+.interestedin-section {
+  background-color: #c3aacb;
+  margin-top: 35px;
+  margin-bottom: 35px;
+}
+
+.oils-grid {
+  text-align: center;
+  font-weight: 700px;
+  font-family: 'Open Sans', sans-serif;
+  margin-top: 30px;
+  font-size: 30px;
+  color: #4f235c;
+}
+
+/* img 600px */
+
+
 /* footer */
 
 
