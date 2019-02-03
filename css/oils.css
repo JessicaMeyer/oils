@@ -27,7 +27,7 @@
   padding: 15px;
 }
 
-/* hero section */
+/* home page hero section */
 
 .hero-image {
   height: 900px;
@@ -103,7 +103,7 @@
   margin-top: 40px;
 }
 
-/* interested in section */
+/* home page interested in section */
 
 .interestedin-section {
   background-color: #c3aacb;
@@ -185,6 +185,7 @@
 }
 
 /* about oils page */
+/* grid on about oils pae */
 
 #mainphotogrid-container {
   margin-top: 30px;
@@ -211,6 +212,10 @@
   color: #803795;
   text-decoration: underline;;
 }
+
+/* ready to try oils section on about oils page */
+
+
 
 /*thieves page */
 
