@@ -99,11 +99,12 @@
 }
 
 #curator-feed {
-  margin-bottom: 25px;
-  margin-top: 25px;
+  margin-bottom: 0px;
+  margin-top: 40px;
 }
 
 /* interested in section */
+
 .interestedin-section {
   background-color: #c3aacb;
   margin-top: 35px;
@@ -119,7 +120,13 @@
   color: #4f235c;
 }
 
-/* img 600px */
+.oils-grid-pics {
+  height: 550px;
+}
+
+#bottomgrid-pics {
+ margin-bottom: 40px;
+}
 
 
 /* footer */
