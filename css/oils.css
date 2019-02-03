@@ -120,12 +120,25 @@
   color: #4f235c;
 }
 
+.oils-grid-text {
+  text-align: center;
+  font-weight: 400px;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  color: #4f235c;
+}
+
 .oils-grid-pics {
   height: 550px;
 }
 
 #bottomgrid-pics {
  margin-bottom: 40px;
+}
+
+.grid-link {
+  color: #4f235c;
+  text-decoration: underline;
 }
 
 
