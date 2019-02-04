@@ -213,9 +213,44 @@
   text-decoration: underline;;
 }
 
-/* ready to try oils section on about oils page */
+/* buy oils page */
 
 
+.ready-to-buy-title {
+  margin-top: 25px;
+  color: #803795;
+  font-size: 35px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 700; 
+  text-align: center; 
+}
+
+.ready-to-buy-text {
+  color: #2b2820;
+  font-size: 18px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400; 
+  margin-top: 10px;
+  text-align: center;
+}
+
+.wholesaletitle {
+  margin-top: 20px;
+  color: #803795;
+  font-size: 25px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 700; 
+  text-align: center; 
+}
+
+.wholesaletext {
+  text-align: center;
+  color: #2b2820;
+  font-size: 18px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400; 
+  margin-top: 10px;
+}
 
 /*thieves page */
 
