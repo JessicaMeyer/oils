@@ -217,9 +217,9 @@
 
 
 .ready-to-buy-title {
-  margin-top: 25px;
+  margin-top: 20px;
   color: #803795;
-  font-size: 35px;
+  font-size: 30px;
   font-family: 'Open Sans', sans-serif;
   font-weight: 700; 
   text-align: center; 
@@ -244,6 +244,15 @@
 }
 
 .wholesaletext {
+  text-align: left;
+  color: #2b2820;
+  font-size: 18px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400; 
+  margin-top: 10px;
+}
+
+.kitoils {
   text-align: center;
   color: #2b2820;
   font-size: 18px;
