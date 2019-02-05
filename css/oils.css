@@ -261,6 +261,24 @@
   margin-top: 10px;
 }
 
+#wholesalebutton {
+  color: #ffffff;
+  font-size: 18px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400; 
+  background-color: #803795;
+}
+
+#retailbutton {
+  color: #ffffff;
+  font-size: 18px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400; 
+  background-color: #803795;
+
+}
+
+
 /*thieves page */
 
 
