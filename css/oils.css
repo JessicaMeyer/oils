@@ -301,4 +301,24 @@
 }
 
 
-/* savvy page */
+/* kids page */
+
+.kids-title {
+  color: #803795;
+  font-size: 23px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 700; 
+  text-align: center; 
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+
+.kids-text {
+  text-align: left;
+  color: #2b2820;
+  font-size: 18px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400; 
+  margin-top: 10px;
+}
+
