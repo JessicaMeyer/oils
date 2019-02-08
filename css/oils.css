@@ -202,10 +202,12 @@
 }
 
 .about-EO-page-text {
-  font-weight: 400px;
-  padding-bottom: 20px;
-  margin-left: 50px;
-  margin-right: 50px;
+  text-align: left;
+  color: #2b2820;
+  font-size: 18px;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400; 
+  margin-top: 10px;
 }
 
 .seedtosealword {
@@ -304,7 +306,7 @@
 /* kids page */
 
 .kids-title {
- color: #803795;
+  color: #803795;
   font-size: 23px;
   font-family: 'Open Sans', sans-serif;
   font-weight: 700; 
